@@ -9,9 +9,9 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the executable
-add_executable(part01 part01.cpp
-        part02.cpp)
+add_executable(part01 part01.cpp)
 
 add_executable(part02 part02.cpp)
 
+add_executable(part03 part03.cpp)
 
