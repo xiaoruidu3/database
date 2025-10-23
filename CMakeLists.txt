@@ -15,3 +15,4 @@ add_executable(part02 part02.cpp)
 
 add_executable(part03 part03.cpp)
 
+add_executable(part04 part04.cpp)
