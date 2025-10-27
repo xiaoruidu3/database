@@ -18,3 +18,8 @@ add_executable(part03 part03.cpp)
 add_executable(part04 part04.cpp)
 
 add_executable(part05 part05.cpp)
+
+add_executable(part06 part06.cpp)
+
+
+add_executable(tmp tmp.cpp)
